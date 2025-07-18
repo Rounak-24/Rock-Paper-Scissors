@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Implementing Javascript Properties through mini projects.
+Implementing Javascript Properties in mini projects.
